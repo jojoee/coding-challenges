@@ -1,0 +1,18 @@
+# Dependency
+node_modules/
+bower_components/
+
+# Backup
+bk
+bk*
+README*.md
+!README-*.md
+images-bk
+assets-bk
+
+# Compiled
+css/style.css
+css/style.css.map
+
+# Graphic
+*.psd

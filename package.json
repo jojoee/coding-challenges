@@ -1,0 +1,34 @@
+{
+  "name": "coding-challenges",
+  "version": "1.0.0",
+  "description": "Coding challenges",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojoee/coding-challenges.git"
+  },
+  "keywords": [
+    "challenge"
+  ],
+  "author": "Nathachai Thongniran <inid3a@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jojoee/coding-challenges/issues"
+  },
+  "homepage": "https://github.com/jojoee/coding-challenges#readme",
+  "devDependencies": {
+    "browser-sync": "^2.10.1",
+    "chai": "^3.5.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "prestart": "bower install && npm install",
+    "start": "gulp default",
+    "test": "mocha test --reporter spec --recursive",
+    "test.watch": "mocha test --reporter spec --recursive --watch"
+  }
+}
