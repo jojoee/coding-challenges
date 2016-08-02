@@ -14,8 +14,11 @@ For practicing coding challenge
 - Code style: [Airbnb](https://github.com/airbnb/javascript)
 
 ## TODO
-1. Refactor `Puzzle 1` into smaller functions and improve logic
-2. Separate module
+- [ ] Refactor `Puzzle 1` into smaller functions and improve logic
+- [ ] Separate module
+- [ ] Implement [Shields.io](http://shields.io/)
+- [ ] Implement [JSHint](http://jshint.com/)
+- [ ] Implement [JSCS](http://jscs.info/)
 
 ## Puzzle
 Find f(x1[, x2[, ...[, xn]]])
