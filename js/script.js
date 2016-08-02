@@ -1,6 +1,7 @@
-var _ = require('lodash');
+var _ = require('lodash'); // unused
 
 module.exports = {
+  
   /**
    * [createGrid description]
    * NOT TESTED
