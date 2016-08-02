@@ -25,7 +25,7 @@ Find f(x1[, x2[, ...[, xn]]])
 
 ### Puzzle 1
 ```
-    arg1                    arg2                  f(x, y)
+    x1                      x2                    f(x1, x2)
 
 1 | ["ab"]                | "xxxxxxabxxxxx"     | "xxxxxx<strong>ab</strong>xxxxx"
 2 | ["ab", "bc"]          | "xxxxxxabxxbcxxx"   | "xxxxxx<strong>ab</strong>xx<strong>bc</strong>xxx"
