@@ -1,4 +1,6 @@
 # Coding challenges
+[![Build Status](https://travis-ci.org/jojoee/coding-challenges.svg)](https://travis-ci.org/jojoee/coding-challenges)
+
 For practicing coding challenge
 
 ![Screenshot](https://raw.githubusercontent.com/jojoee/coding-challenges/master/screenshot/screenshot1.jpg "Screenshot")
