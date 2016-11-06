@@ -14,3 +14,6 @@ css/style.css.map
 
 # Graphic
 *.psd
+
+# IDE
+.idea
