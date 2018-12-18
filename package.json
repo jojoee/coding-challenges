@@ -16,9 +16,9 @@
   },
   "homepage": "https://github.com/jojoee/coding-challenges#readme",
   "devDependencies": {
-    "chai": "^3.5.0",
+    "chai": "^4.2.0",
     "lodash": "^4.14.1",
-    "mocha": "^2.5.3"
+    "mocha": "^5.2.0"
   },
   "scripts": {
     "test": "mocha test --reporter spec --recursive",

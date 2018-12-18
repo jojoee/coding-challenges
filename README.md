@@ -1,5 +1,5 @@
 # Coding challenges
-[![Build Status](https://travis-ci.org/jojoee/coding-challenges.svg)](https://travis-ci.org/jojoee/coding-challenges)
+[![Build Status](https://travis-ci.org/jojoee/coding-challenges.svg)](https://travis-ci.org/jojoee/coding-challenges) [![Greenkeeper badge](https://badges.greenkeeper.io/jojoee/coding-challenges.svg)](https://greenkeeper.io/)
 
 For practicing coding challenge
 
